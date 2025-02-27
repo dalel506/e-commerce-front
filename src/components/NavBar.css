@@ -1,0 +1,40 @@
+.title-nav{
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 35px;
+    font-weight: 700;
+    font-style:italic;
+    padding: 10px 20px;
+    display: inline-block; 
+    
+
+}
+.me-auto{
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    padding: 10px 80px;
+    font-size: 20px;
+}
+
+.btn-custom {
+    margin-top: 2px !important;
+    background-color: black !important;
+    color: white !important;
+    border: 1px solid black !important;
+    transition: background-color 0.3s ease, color 0.3s ease !important;
+  }
+  
+  .btn-custom:hover {
+    background-color:white !important;
+    color: black !important;
+  }
+  
+  .hover-underline {
+    text-decoration: none !important;
+    color: black !important;
+    transition: text-decoration 0.3s ease !important;
+  }
+  
+  .hover-underline:hover {
+    text-decoration: underline black !important;
+  }
+  
