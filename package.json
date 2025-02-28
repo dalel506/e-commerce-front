@@ -6,6 +6,7 @@
     "@reduxjs/toolkit": "^1.9.7",
     "axios": "^1.7.9",
     "bootstrap": "^5.3.3",
+    "bootstrap-icons": "^1.11.3",
     "cra-template": "1.2.0",
     "lucide-react": "^0.476.0",
     "react": "^19.0.0",
