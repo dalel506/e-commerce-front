@@ -1,7 +1,7 @@
 .panier-container {
     position: fixed;
     top: 0;
-    right: -400px; /* Initially hidden */
+    right: -400px;
     width: 400px;
     height: 100vh;
     background: white;
@@ -12,7 +12,7 @@
   }
   
   .panier-container.open {
-    right: 0; /* Slide in when open */
+    right: 0; 
   }
   
   .close-btn {
@@ -24,7 +24,7 @@
     cursor: pointer;
   }
   .panier-footer {
-    margin-top: 500px; /* Increase this value for even more space */
-    padding-top: 30px; /* Adds extra padding inside */
+    margin-top: 500px;
+    padding-top: 30px; 
   }
   

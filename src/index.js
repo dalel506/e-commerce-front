@@ -10,7 +10,7 @@ import "bootstrap-icons/font/bootstrap-icons.css";
 
 
 
-axios.defaults.baseURL="https://e-commerce-back-buye.onrender.com/api"
+axios.defaults.baseURL="http://localhost:5000/api"
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));

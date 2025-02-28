@@ -1,11 +1,4 @@
-/* @font-face {
-  font-family: "Poppins-Regular";
-  src: url("../fonts/poppins/Poppins-Regular.ttf"); }
-@font-face {
-  font-family: "Poppins-SemiBold";
-  src: url("../fonts/poppins/Poppins-SemiBold.ttf"); } */
-
-  .boxCard {
+.boxCard {
     font-family: "Poppins-Regular";
     color: #333;
     font-size: 13px;

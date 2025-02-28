@@ -49,7 +49,6 @@ const Contact = () => {
         </div>
       </div>
 
-      {/* Formulaire + Carte */}
       <div className="contact-content">
     
 

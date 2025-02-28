@@ -1,7 +1,7 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap-icons/font/bootstrap-icons.css";
-import "./FeatureCards.css"; // Assure-toi que ce fichier est bien importé
+import "./FeatureCards.css"; 
 
 const features = [
   { icon: "bi-people", title: "Clients Satisfaits", text: "Des milliers de clients font confiance à nos produits de qualité." },

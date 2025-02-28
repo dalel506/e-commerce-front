@@ -7,7 +7,7 @@
   .quote-icon {
     display: flex;
     justify-content: center;
-    margin-bottom: -20px; /* Ajuste l'icône au-dessus */
+    margin-bottom: -20px;
   }
   
   .quote-svg {
